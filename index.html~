@@ -1,0 +1,667 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>KGB L3</title>
+    <link rel="shortcut icon" href="images/KGB.png">
+
+    <!-- Bootstrap Core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="css/kgbl3.css" rel="stylesheet">
+
+    <!-- Custom Fonts -->
+    <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css">
+
+</head>
+
+<body id="page-top" class="index">
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-default navbar-fixed-top">
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header page-scroll">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="#page-top">KGB L3</a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    <li class="hidden">
+                        <a href="#page-top"></a>
+                    </li>
+                    <li class="page-scroll">
+                        <a href="#software">Software</a>
+                    </li>
+                    <li class="page-scroll">
+                        <a href="#premios">Premios</a>
+                    </li>
+                    <li class="page-scroll">
+                        <a href="#colaborations">Colaboraciones</a>
+                    </li>
+                    <li class="page-scroll">
+                        <a href="#menbers">Miembros</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container-fluid -->
+    </nav>
+
+    <!-- Header -->
+    <header>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <img class="img-responsive" src="images/KGB.png" alt="">
+                    <div class="intro-text">
+                        <span class="name">KinderGarten and Beyond and LifeLong Learning</span>
+                        <hr class="star-light">
+                        <span class="skills">Somos un grupo de investigación de la URJC compuesto por cinco profesores, dos doctorandos y una docena de alumnos de máster y grado. KGB L3 tiene como objetivo la investigación y promoción del pensamiento computacional.</span>
+                          <br></br><p><img src="images/logoURJC.jpg"></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Portfolio Grid Section -->
+    <section id="software">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2>Software</h2>
+                    <hr class="star-primary">
+                        <p>Dr. Scratch es una plataforma web permite subir programas de Scratch, un lenguaje de programación visual orientado al aprendizaje de técnicas de programación para niños, para ser evaluados, de manera que el alumno recibirá realimentación sobre la calidad del programa, cómo mejorarlo y una evaluación global de sus capacidades de programación. La plataforma incluye técnicas de ludificación (gamification), de manera que el alumno puede ganar medallas y desarrollar sus habilidades de programación y alcanzar niveles de mayor complejidad y calidad. Dentro del proyecto se realizarán actividades específicamente orientadas al fomento de la programación para chicas, colectivos desfavorecidos y discapacitados.</p><br></br>
+
+                           <strong><a class="btn btn-success btn-lg" href="http://drscratch.programamos.es/">Link</a><br></br>
+                        </strong>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm-6 portfolio-item">
+                    <a href="#portfolioModal1" class="portfolio-link" data-toggle="modal">
+                        <div class="caption">
+                            <div class="caption-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="images/appInventor.png" class="img-responsive" alt="" style="width:600px; height:300px;">
+                    </a>
+                </div>
+                <div class="col-sm-6 portfolio-item">
+                    <a href="#portfolioModal2" class="portfolio-link" data-toggle="modal">
+                        <div class="caption">
+                            <div class="caption-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="images/scratch.jpg" class="img-responsive" alt="" style="width:600px; height:300px;">
+                    </a>
+                </div>
+           
+             <div class="container">
+               <div class="row">
+                <div class="col-lg-12 text-center">
+                  <br>
+                  <p>LibreSoft Gymkhana is an open source educational and geolocated game related to M-Learning & Tourism applications. It is based on the LibreGeoSocial mobile social network application, which includes a mobile augmented reality interface. You can organize and manage a mobile gymkana using Android smartphones (new generation gymkhanas) without great effort.</p><br></br>
+
+                    <strong><a class="btn btn-success btn-lg" href="http://gymkhana.libresoft.es/">Link</a><br></br>
+                        </strong>
+
+                 </div>
+                </div>
+              </div>
+        </div>
+    </section>
+
+    <!-- Premios Section -->
+    <section class="success" id="premios">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2>Premios</h2>
+                    <hr class="star-light">
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <p>Google RISE: El grupo de investigación ha sido reconocido por Google con uno de sus premios RISE Award, un galardón que les permitirá continuar con sus labores de investigación y enseñanza de la programación informática a niños y niñas desde los 3 años de edad. Es la primera ocasión en la que un equipo español logra uno de estos galardones, unos premios que desde el año 2010 vienen reconociendo la labor que realizan entidades de todo el mundo para promover la difusión de la informática.</p><br>
+                     <strong><a class="btn btn-lg btn-outline" href="https://www.google.com/edu/resources/programs/google-rise-awards/#!award-recipients">Link</a></strong>           
+
+               </div>           
+                
+            </div>
+        </div>
+    </section>
+
+    <!-- Colaboraciones Section -->
+    <section id="colaborations">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2>Colaboraciones</h2>
+                    <hr class="star-primary">
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                  <p>Programamos.es: Varios miembros del equipo son los promotores y directores de esta asociación, que pretende crear una comunidad de docentes interesados en aprender y enseñar a programar de manera divertida. Constituida en 2013, cuenta a día de hoy con una comunidad reducida, pero muy activa, de profesores que realizan actividades y talleres para dar difusión de este movimiento e involucrar en el mismo a estudiantes, docentes, familias y administraciones educativas.</p><br>
+                     <strong><a class="btn btn-success btn-lg" href="http://www.programamos.es">Link</a></strong>          
+
+               </div>
+               <div class="col-lg-12 text-center">
+                   <br></br>
+                  <p>Coder-Dojo Medialab Prado: es una iniciativa internacional surgida en 2011 en Irlanda con el objetivo de enseñar a niños y jóvenes a programar. En pocos meses se ha extendido y ahora mismo coderDojo es una red de centros. En la actualidad existen decenas de clubs en más de de 20 países. En CoderDojo se potencia el software libre y se trabaja con herramientas de programación libres. Algunas de las cosas que se suelen aprender son: Scratch, HTML, Javascript, Arduino, Processing, Android.</p><br>
+                     <strong><a class="btn btn-success btn-lg" href="http://medialab-prado.es/article/coderdojo">Link</a></strong>           
+               </div>
+               <div class="col-lg-12 text-center">
+                   <br></br>
+                  <p>Semana Europea de la programación (CodeWeek EU): varios miembros del equipo son los embajadores españoles de esta iniciativa promovida por la Comisión Europea encargándose, entre otras cuestiones, de la gestión y promoción de los diferentes acontecimientos y eventos que se van a celebrar en nuestro país.</p><br>
+                     <strong><a class="btn btn-success btn-lg" href="http://codeweek.eu/">Link</a></strong>           
+               </div>
+
+               <div class="col-lg-12 text-center">
+                   <br></br>
+                  <p>INTEF: El equipo del proyecto cuenta con vínculos muy estrechos con el Instituto Nacional de Tecnologías Educativas y de Formación del Profesorado, dependiente del Ministerio de Educación, Cultura y Deporte. Así, uno de los miembros del equipo trabaja allí, mientras que cuatro de los miembros del mismo son profesores o tutores en cursos de formación en pensamiento computacional para profesores, incluyendo cursos de verano o cursos de formación on-line.</p><br>
+                     <strong><a class="btn btn-success btn-lg" href="http://www.ite.educacion.es/">Link</a></strong>           
+               </div>
+
+               <div class="col-lg-12 text-center">
+                   <br></br>
+                  <p>ADIE: El equipo del proyecto forma parte de la Asociación para el Desarrollo de la Informática Educativa, cuyos objetivos son 1. fomentar la Informática Educativa, 2. promover la formación de las personas en las Nuevas Tecnologías Educativas, 3. el intercambio de trabajos, ideas y experiencias y 4. evaluar la calidad pedagógica de los productos existentes.</p><br>
+                     <strong><a class="btn btn-success btn-lg" href="http://www.adie.es">Link</a></strong>           
+               </div>
+               <div class="col-lg-12 text-center">
+                   <br></br>
+                  <p>UNIR: Varios miembros del equipo colaboran con la Universidad Internacional de la Rioja, una universidad virtual que oferta el Máster en e-learning y redes sociales, orientado a docentes principalmente de las etapas infantil, primaria y secundaria. Asimismo, han ofrecido varios talleres abiertos al público sobre programación en Scratch.</p><br>
+                     <strong><a class="btn btn-success btn-lg" href="http://www.unir.net">Link</a></strong>           
+               </div>
+
+            </div>
+        </div>
+    </section>
+
+   <!-- About Section -->
+    <section class="success" id="menbers">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2>Miembros</h2>
+                    <hr class="star-light">
+                </div>
+            </div>
+            <div class="row">
+                <!--<div class="col-lg-12 text-center">
+                    <p>Google RISE: El grupo de investigación ha sido reconocido por Google con uno de sus premios RISE Award, un galardón que les permitirá continuar con sus labores de investigación y enseñanza de la programación informática a niños y niñas desde los 3 años de edad. Es la primera ocasión en la que un equipo español logra uno de estos galardones, unos premios que desde el año 2010 vienen reconociendo la labor que realizan entidades de todo el mundo para promover la difusión de la informática.</p><br>
+                     <strong><a class="btn btn-lg btn-outline" href="https://www.google.com/edu/resources/programs/google-rise-awards/#!award-recipients">Link</a></strong>        
+
+               </div>-->
+              
+                <div class="row">
+                <div class="col-lg-12"> 
+                <div class="col-md-12 portfolio-item">
+                    <a href="#portfolioModal3" class="portfolio-link" data-toggle="modal">
+                        <!--<div class="caption">
+                            <div class="caption-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>-->
+                        <br></br>
+                        <img src="images/gregoriorobles.jpg" class="img-responsive img-centered" alt="" style="width:200px; height:200px; text-align: center;">
+                    </a>
+                </div>
+                </div>
+                </div>
+                <br>
+
+               <div class="row">
+                <div class="col-lg-12"> 
+                <div class="col-md-3 portfolio-item">
+                    <a href="#portfolioModal4" class="portfolio-link" data-toggle="modal">
+                        <!--<div class="caption">
+                            <div class="caption-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>-->
+                        <img src="images/jesusmoreno.jpg" class="img-responsive img-centered" alt="" style="width:150px; height:150px;">
+                    </a>
+                </div>
+                <div class="col-md-3 portfolio-item">
+                    <a href="#portfolioModal5" class="portfolio-link" data-toggle="modal">
+                        <!--<div class="caption">
+                            <div class="caption-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>-->
+                        <img src="images/joseignacio.jpg" class="img-responsive img-centered" alt="" style="width:150px; height:150px;">
+                    </a>
+                </div>
+                <div class="col-md-3 portfolio-item">
+                    <a href="#portfolioModal6" class="portfolio-link" data-toggle="modal">
+                        <!--<div class="caption">
+                            <div class="caption-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>-->
+                        <img src="images/jesusgonzalez.jpg" class="img-responsive img-centered" alt="" style="width:150px; height:150px;">
+                    </a>
+                </div>
+                 <div class="col-md-3 portfolio-item">
+                    <a href="#portfolioModal7" class="portfolio-link" data-toggle="modal">
+                        <!--<div class="caption">
+                            <div class="caption-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>-->
+                        <img src="images/pedrodelasheras.jpg" class="img-responsive img-centered" alt="" style="width:150px; height:150px;">
+                    </a>
+                </div>
+                </div>               
+                </div>
+                <br>
+                
+                <div class="row">
+                <div class="col-lg-12"> 
+                <div class="col-md-3 portfolio-item">
+                    <a href="#portfolioModal8" class="portfolio-link" data-toggle="modal">
+                        <!--<div class="caption">
+                            <div class="caption-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>-->
+                        <img src="images/josecenteno.png" class="img-responsive img-centered" alt="" style="width:150px; height:150px;">
+                    </a>
+                </div>
+                <div class="col-md-3 portfolio-item">
+                    <a href="#portfolioModal9" class="portfolio-link" data-toggle="modal">
+                        <!--<div class="caption">
+                            <div class="caption-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>-->
+                        <img src="images/evacastro.jpg" class="img-responsive img-centered" alt="" style="width:150px; height:150px;">
+                    </a>
+                </div>
+                <div class="col-md-3 portfolio-item">
+                    <a href="#portfolioModal10" class="portfolio-link" data-toggle="modal">
+                        <!--<div class="caption">
+                            <div class="caption-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>-->
+                        <img src="images/evahu.jpg" class="img-responsive img-centered" alt="" style="width:150px; height:150px;">
+                    </a>
+                </div>
+                <div class="col-md-3 portfolio-item">
+                    <a href="#portfolioModal11" class="portfolio-link" data-toggle="modal">
+                       <!-- <div class="caption">
+                            <div class="caption-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>-->
+                        <img src="images/mariluz.jpg" class="img-responsive img-centered" alt="" style="width:150px; height:150px;">
+                    </a>
+                </div>
+                </div>
+                <br> 
+
+           </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="text-center">
+        <div class="footer-above">
+            <div class="container">
+                <div class="row">
+                    <div class="footer-col col-md-4">
+                        <h3></h3>
+                        <p></p>
+                    </div>
+                    <div class="footer-col col-md-4">
+                        <h3>Síguenos en la Web</h3>
+                        <ul class="list-inline">
+                            <li>
+                                <a href="https://es-es.facebook.com/" class="btn-social btn-outline"><i class="fa fa-fw fa-facebook"></i></a>
+                            </li>
+                            <li>
+                                <a href="http://www.google.com/intl/es/+/learnmore/" class="btn-social btn-outline"><i class="fa fa-fw fa-google-plus"></i></a>
+                            </li>
+                            <li>
+                                <a href="https://twitter.com/?lang=es" class="btn-social btn-outline"><i class="fa fa-fw fa-twitter"></i></a>
+                            </li>
+                            <li>
+                                <a href="https://es.linkedin.com/" class="btn-social btn-outline"><i class="fa fa-fw fa-linkedin"></i></a>
+                            </li>
+                            <li>
+                                <a href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-github"></i></a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="footer-col col-md-4">
+                        <h3></h3>
+                        <p></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="footer-below">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        Copyright &copy; KGB L3 2015
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Scroll to Top Button (Only visible on small and extra-small screen sizes) -->
+    <div class="scroll-top page-scroll visible-xs visble-sm">
+        <a class="btn btn-primary" href="#page-top">
+            <i class="fa fa-chevron-up"></i>
+        </a>
+    </div>
+
+    <!-- Portfolio Modals -->
+    <div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <h2>Dr. Scratch</h2>
+                            <hr class="star-primary">
+                            <img src="images/appInventor.png" class="img-responsive img-centered" alt="">
+                            <p></p>
+                
+                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="portfolio-modal modal fade" id="portfolioModal2" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <h2>Dr. Scratch</h2>
+                            <hr class="star-primary">
+                            <img src="images/scratch.jpg" class="img-responsive img-centered" alt="">
+                            <p></p>
+                          
+                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="portfolio-modal modal fade" id="portfolioModal3" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <h2>Gregorio Robles </h2>
+                            <hr class="star-primary">
+                            <img src="images/gregoriorobles.jpg" class="img-responsive img-centered" alt="">
+                            <p>Profesor e investigador de la URJC, director del grupo.</p>
+                            <strong><a class="btn btn-success btn-lg" href="http://gsyc.urjc.es/~grex/">Link</a><br></br>
+                            </strong>
+                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="portfolio-modal modal fade" id="portfolioModal4" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <h2>Jesús Moreno</h2>
+                            <hr class="star-primary">
+                            <img src="images/jesusmoreno.jpg" class="img-responsive img-centered" alt="">
+                            <p>Cofundador de programamos.es, profesor de secundaria, doctorando en la URJC.</p>
+                         
+                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="portfolio-modal modal fade" id="portfolioModal5" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <h2>José Ignacio Huertas</h2>
+                            <hr class="star-primary">
+                            <img src="images/joseignacio.jpg" class="img-responsive img-centered" alt="">
+                            <p>Cofundador de programamos.es, profesor de secundaria, doctorando en la URJC.</p>
+                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="portfolio-modal modal fade" id="portfolioModal6" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <h2>Jesús M. González Barahona</h2>
+                            <hr class="star-primary">
+                            <img src="images/jesusgonzalez.jpg" class="img-responsive img-centered" alt="">
+                            <p>Profesor e investigador de la URJC.</p>
+                           
+                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="portfolio-modal modal fade" id="portfolioModal7" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <h2>Pedro de las Heras</h2>
+                            <hr class="star-primary">
+                            <img src="images/pedrodelasheras.jpg" class="img-responsive img-centered" alt="" style="width:400px; height:300px;">
+                            <p>Profesor e investigador de la URJC.</p>
+                           
+                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="portfolio-modal modal fade" id="portfolioModal8" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <h2>José Centeno</h2>
+                            <hr class="star-primary">
+                            <img src="images/josecenteno.png" class="img-responsive img-centered" alt="" style="width:200px; height:200px;">
+                            <p>Profesor e investigador de la URJC.</p>
+                           
+                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="portfolio-modal modal fade" id="portfolioModal9" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <h2>Eva Castro</h2>
+                            <hr class="star-primary">
+                            <img src="images/evacastro.jpg" class="img-responsive img-centered" alt="" style="width:180px; height:200px;">
+                            <p>Profesor e investigador de la URJC.</p>
+                           
+                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="portfolio-modal modal fade" id="portfolioModal10" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <h2>Eva Hu Garres</h2>
+                            <hr class="star-primary">
+                            <img src="images/evahu.jpg" class="img-responsive img-centered" alt="">
+                            <p>Técnico de apoyo.</p>
+                           
+                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="portfolio-modal modal fade" id="portfolioModal11" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <h2>Mari Luz Aguado</h2>
+                            <hr class="star-primary">
+                            <img src="images/mariluz.jpg" class="img-responsive img-centered" alt="">
+                            <p>Técnico de apoyo.</p>
+                           
+                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- jQuery -->
+    <script src="js/jquery.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="js/bootstrap.min.js"></script>
+
+    <!-- Plugin JavaScript -->
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
+    <script src="js/classie.js"></script>
+    <script src="js/cbpAnimatedHeader.js"></script>
+
+    <!-- Custom Theme JavaScript -->
+    <script src="js/kgbl3.js"></script>
+
+</body>
+
+</html>
