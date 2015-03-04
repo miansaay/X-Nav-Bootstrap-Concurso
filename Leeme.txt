@@ -1,0 +1,12 @@
+
+Funcionamiento de KGB L3:
+
+Si pinchas en el menú de la cebecera va a distintas secciones de la web.
+
+Si pinchas en las imágenes aparece un desplegable explicando de que es cada cosa, esta
+función esta en todas menos en la imagen de KGB L3 del principio de la web. La imagen de la 
+Urjc te lleva directamente la prágina web de la Urjc.
+
+Todos los enlaces funcionan, incluidos los de las redes sociales del footer.
+
+
