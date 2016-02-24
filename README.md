@@ -3,7 +3,7 @@ Ejercicio 5.4.7 - Concurso: Tu diseño Bootstrap
 
 Ejercicio de las asignaturas AT y DAT. Tema Bootstrap.
 
-## Enunciado 
+## Enunciado
 
 Utilizando componentes Bootstrap, realiza una página para el grupo de investigación KGB-LLL (KinderGarten Group and Beyond - LifeLong Learning) de la Universidad Rey Juan Carlos.
 
@@ -12,6 +12,9 @@ Para realizar el ejercicio, debes crear un <i>fork</i> del repositorio del <a hr
 ## Forma de entrega
 
 Has de tener un repositorio llamado X-Nav-Bootstrap-Concurso en tu cuenta en GitHub
-que incluya elementos vía CDN, a ser posible, para que se pueda ver la 
+que incluya elementos vía CDN, a ser posible, para que se pueda ver la
 web resultante. El resultado no debería dar errores en <a href="http://blog.getbootstrap.com/2014/09/23/bootlint/">Bootlint</a>.
 
+## Rama gh-pages
+
+<a href="http://miansaay.github.io/X-Nav-Boostrap-Concurso/">KGB L3</a>
