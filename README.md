@@ -17,4 +17,4 @@ web resultante. El resultado no debería dar errores en <a href="http://blog.get
 
 ## Rama gh-pages
 
-<a href="http://miansaay.github.io/X-Nav-Boostrap-Concurso/">KGB L3</a>
+<a href="http://miansaay.github.io/X-Nav-Bootstrap-Concurso/">KGB L3</a>
